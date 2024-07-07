@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magnus031
-- 👀 I’m interested in ComputerScience Self-Learning!
+- 👀 I’m a 2022 undergraduate student major in CS in Zhejiang University,China! 
 - 🌱 I’m currently learning ComputerScience and Economic!
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me
   1. You can reach me at my E-mail  zhouweizhan031@gmail dot com
   2. Also you can reach me at My WeChat MaGNus03I 
